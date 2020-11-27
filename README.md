@@ -1,7 +1,8 @@
 # Justicia-con-Data
 
 JUSTICIA CON DATA - Análisis de las resoluciones
-[Sebastian Contreiras](https://ar.linkedin.com/in/sebastian-contreiras-92698627)
+
+Por [Sebastian Contreiras](https://ar.linkedin.com/in/sebastian-contreiras-92698627)
 
 El informe se realiza en el marco del desafío __"Analizando denuncias relacionadas a la violencia de género"__ propuesto por la [__Escuela de Datos Vivos__](https://escueladedatosvivos.ai/). 
 
